@@ -74,11 +74,11 @@ __Note:__ Below is the template you will be using for all of your projects. Just
 
 [comment]: <> (Template below here, you can delete this line and everything below it.)
 
-# [Insert Title Here] For example: Chicken wing-spans in relation to their Jurassic Ancestors
+# Runjini Project 1
 
-[Insert Date Here]
+11/7/17
 
-**Author:** [Author Name Here]
+**Author:** Runjini Murthy
 
 
-__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing-spans in comparison to Jurassic era *Dinosaurs.*
+__*Project Description:*__ First project 
