@@ -8,7 +8,7 @@
 __*Project Description:*__ Introduce the complete data novice to three key file types: CSV, XML, JSON.  It will explain the features of each file type, use cases for each, and demonstrate a process to convert the commonly known CSV to XML and JSON respectively using Python scripts.
 
 
-## Learning Summary
+### Summary
 CSV is a commonly used data file format for business, XML and JSON offer additional benefits.  XML offers the ability to show hierarchies in data, using human readable language to describe the fields and values, but it is the largest of the file sizes, because there are open and close tags for each element.  JSON is the best of both worlds, using human readable language but preserving data hierarchies in a file smaller than XML.  
 
 The exercise of converting file formats involves Python, Atom, and command line. The Python script is written in Atom and executed in the command line.  The two scripts used are below.  In order to execute the function, the following must be typed into the command line/terminal:  
@@ -70,8 +70,15 @@ print ("Conversion complete!")
 ```
 
 ### Key Command Line Functions
-cd = change directory
-pwd = print working directory
-ls = list items in the current folder
-cd .. = move up one folder
+cd = change directory  
+pwd = print working directory  
+ls = list items in the current folder  
+cd .. = move up one folder  
 python filename.py = execute scripts
+
+### Helpful Links
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Data Format Comparison](http://ezinearticles.com/?CSV-vs-XML-vs-JSON---Which-is-the-Best-Response-Data-Format?&id=4073117)
+
+[CSV to XML code source](http://code.activestate.com/recipes/577423-convert-csv-to-xml/)
