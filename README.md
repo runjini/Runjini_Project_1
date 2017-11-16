@@ -79,6 +79,8 @@ python filename.py = execute scripts
 ### Helpful Links
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Data Format Comparison](http://ezinearticles.com/?CSV-vs-XML-vs-JSON---Which-is-the-Best-Response-Data-Format?&id=4073117)
+[Data Format Comparison 1](http://1zinearticles.com/?CSV-vs-XML-vs-JSON---Which-is-the-Best-Response-Data-Format?&id=4073117)
+
+[Data Format Comparison 2](http://json.org/example.html)
 
 [CSV to XML code source](http://code.activestate.com/recipes/577423-convert-csv-to-xml/)
