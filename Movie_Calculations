@@ -1,0 +1,5 @@
+SELECT Pre_Oscars.Weekend_Gross, Pre_Oscars.Theater_Count, Pre_Oscars.Average, Post_Oscars.Weekend_Gross, Post_Oscars.Theater_Count, Post_Oscars.Average, Movies.Name, Movies."Oscar Winner?"
+FROM Pre_Oscars 
+INNER JOIN Post_Oscars on Post_Oscars.Movie_ID = Pre_Oscars.Movie_ID
+INNER JOIN Movies on Movies.ID = Pre_Oscars.Movie_ID
+WHERE Movies."Oscar Winner?" = 1
